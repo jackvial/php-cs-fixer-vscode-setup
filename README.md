@@ -1,5 +1,4 @@
-# PHP CS Fixer VSCode Setup
-PHP CS Fixer setup notes for VSCode
+# PHP CS Fixer - VSCode Setup
 
 Install php cs fixer extension by junstyle
 
